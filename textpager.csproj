@@ -7,6 +7,10 @@
     <Authors>MXPSQL</Authors>
     <Company>MXPSQL</Company>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MOALib/MXPSQL.TextPager</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MOALib/MXPSQL.TextPager</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>Pager</PackageTags>
 
 
     <!--<OutputType>Exe</OutputType>-->
