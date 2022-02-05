@@ -10,6 +10,7 @@
         <!-- Optional elements -->
 	<license type="file">LICENSE</license>
 	<projectUrl>https://github.com/MOALib/MXPSQL.TextPager</projectUrl>
+    <repository type="git" url="https://github.com/MOALib/MXPSQL.TextPager" />
 	<requireLicenseAcceptance>true</requireLicenseAcceptance>
         <!-- ... -->
     </metadata>
