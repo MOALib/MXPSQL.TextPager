@@ -47,14 +47,4 @@ public static class TextPager
             Console.WriteLine(text);
         }
     }
-
-    static void Main(String[] args){
-        if(args.Length > 0){
-            pager(File.ReadAllText(args[0]), 10);
-        }
-        else{
-            Console.WriteLine("Not enough args!");
-        }
-
-    }
 }
